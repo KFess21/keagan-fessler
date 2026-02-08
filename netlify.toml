@@ -5,4 +5,7 @@
 [context.production.environment]
   NODE_ENV = "production"
   NPM_CONFIG_PRODUCTION = "false"
-    VUE_APP_TITLE = "Portfolio"
+  VUE_APP_TITLE = "Keagan Fessler"
+  VUE_APP_DESCRIPTION = "Keagan's portfolio website."
+  VUE_APP_OGDESCRIPTION = "Keagan's website"
+  VUE_APP_PRODUCTION_URL = "https://keaganfessler.com"
